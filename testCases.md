@@ -2,7 +2,7 @@
 
 https://admin-demo.nopcommerce.com/
 
-| SNO        | Module Name             |   Test Scenarios      |                                     |
+| SNO        | Module Name             |   Test Scenarios      |   Test Cases                        |
 |  :-----:   |   :-----                |  :-----               |     :-------------                  |
 |     1      |   Login                 |                       |                                     |
 |     2      |   Customers             |  Add new customers    |                                     |
