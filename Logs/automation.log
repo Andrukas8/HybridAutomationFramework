@@ -1,5 +1,16 @@
-01/25/2024 11:32:20 AM: INFO: ********** Test_001_Login **********
-01/25/2024 11:32:20 AM: INFO: ***** Verifying Homepage Title
-01/25/2024 11:32:22 AM: INFO: Homepage Title test Passed
-01/25/2024 11:32:24 AM: INFO: ***** Verifying Login test
-01/25/2024 11:32:28 AM: INFO: Login test Passed
+01/26/2024 10:26:51 AM: INFO: ********** Launching chrome browser...
+01/26/2024 10:26:53 AM: INFO: ********** Test_001_Login **********
+01/26/2024 10:26:53 AM: INFO: ***** Verifying Homepage Title
+01/26/2024 10:26:54 AM: INFO: Homepage Title test Passed
+01/26/2024 10:26:54 AM: INFO: ********** Launching chrome browser...
+01/26/2024 10:26:56 AM: INFO: ***** Verifying Login test
+01/26/2024 10:27:00 AM: INFO: Login test Passed
+01/26/2024 10:27:24 AM: INFO: ********** Launching wer browser...
+01/26/2024 10:27:25 AM: INFO: ********** Launching wer browser...
+01/26/2024 10:30:22 AM: INFO: ********** Launching chrome browser...
+01/26/2024 10:30:24 AM: INFO: ********** Test_001_Login **********
+01/26/2024 10:30:24 AM: INFO: ***** Verifying Homepage Title
+01/26/2024 10:30:26 AM: INFO: Homepage Title test Passed
+01/26/2024 10:30:26 AM: INFO: ********** Launching chrome browser...
+01/26/2024 10:30:28 AM: INFO: ***** Verifying Login test
+01/26/2024 10:30:32 AM: INFO: Login test Passed

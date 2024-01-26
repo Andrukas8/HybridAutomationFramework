@@ -27,4 +27,4 @@ as inspired by SDET-QA Youtube channel
 
 
 ### Tips
-```pytest -v -s testCases\test_login.py``` - launches tests in test_login.py file
+```pytest -v -s testCases\test_login.py --browser chrome``` - launches tests in test_login.py file. Supported browsers are Chrome, Firefox, Edge, Safari
