@@ -1,6 +1,8 @@
 from selenium import webdriver
 import pytest
+from pytest_metadata.plugin import metadata_key
 from utilities.customLogger import LogGen
+
 
 logger = LogGen.loggen()
 
@@ -36,6 +38,7 @@ def setup(browser):
     return driver
 
 
+
 def pytest_addoption(parser):
     parser.addoption("--browser")
 
@@ -43,3 +46,19 @@ def pytest_addoption(parser):
 @pytest.fixture()
 def browser(request):
     return request.config.getoption("--browser")
+
+########## Generating PyTest HTML Report ##########
+
+# Hook for adding environment info to the HTML Report
+def pytest_configure(config):
+    metadata = config.pluginmanager.getplugin("metadata")
+    if metadata:        
+        config.stash[metadata_key]['Project Name'] = 'nop Commerce'
+        config.stash[metadata_key]['Module Name'] = 'Customers'
+        config.stash[metadata_key]['Tester'] = 'Andriy'
+
+# Hook for deletting/modifying Environment info of the HTML Report
+@pytest.hookimpl(optionalhook=True)
+def pytest_metadata(metadata):
+    metadata.pop("JAVA_HOME", None)
+    metadata.pop("Plugins", None)
