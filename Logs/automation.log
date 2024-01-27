@@ -1,10 +1,199 @@
-01/27/2024 11:59:29 AM: INFO: ********** Launching chrome browser...
-01/27/2024 11:59:31 AM: INFO: ***** Test_002_DDT_Login *****
-01/27/2024 11:59:31 AM: INFO: ***** Verifying Login test
-01/27/2024 11:59:34 AM: INFO: *** Passed
-01/27/2024 11:59:36 AM: INFO: *** Passed
-01/27/2024 11:59:38 AM: INFO: *** Passed
-01/27/2024 11:59:39 AM: INFO: *** Passed
-01/27/2024 11:59:39 AM: INFO: ***** Login DDT test passed *****
-01/27/2024 11:59:40 AM: INFO: ***** End of the Login DDT Test *****
-01/27/2024 11:59:40 AM: INFO: ***** Completed Test_002_DDT_Login *****
+01/27/2024 02:06:55 PM: INFO: ********** Launching chrome browser...
+01/27/2024 02:06:57 PM: INFO: ***** Test_002_DDT_Login *****
+01/27/2024 02:06:57 PM: INFO: ***** Verifying Login test
+01/27/2024 02:07:00 PM: INFO: *** Passed
+01/27/2024 02:07:03 PM: INFO: *** Passed
+01/27/2024 02:07:05 PM: INFO: *** Passed
+01/27/2024 02:07:06 PM: INFO: *** Passed
+01/27/2024 02:07:06 PM: INFO: ***** Login DDT test passed *****
+01/27/2024 02:07:07 PM: INFO: ***** End of the Login DDT Test *****
+01/27/2024 02:07:07 PM: INFO: ***** Completed Test_002_DDT_Login *****
+01/27/2024 02:16:13 PM: INFO: ********** Launching chrome browser...
+01/27/2024 02:16:15 PM: INFO: ********** Test_003_AddCustomer **********
+01/27/2024 02:16:18 PM: INFO: *** Login Succesful
+01/27/2024 02:16:18 PM: INFO: ***** Starting Add Customer Test
+01/27/2024 02:19:30 PM: INFO: ********** Launching chrome browser...
+01/27/2024 02:19:32 PM: INFO: ********** Test_003_AddCustomer **********
+01/27/2024 02:19:35 PM: INFO: *** Login Succesful
+01/27/2024 02:19:35 PM: INFO: ***** Starting Add Customer Test
+01/27/2024 02:21:02 PM: INFO: ********** Launching chrome browser...
+01/27/2024 02:21:03 PM: INFO: ********** Test_003_AddCustomer **********
+01/27/2024 02:21:06 PM: INFO: *** Login Succesful
+01/27/2024 02:21:06 PM: INFO: ***** Starting Add Customer Test
+01/27/2024 02:22:20 PM: INFO: ********** Launching chrome browser...
+01/27/2024 02:22:22 PM: INFO: ********** Test_003_AddCustomer **********
+01/27/2024 02:22:24 PM: INFO: *** Login Succesful
+01/27/2024 02:22:24 PM: INFO: ***** Starting Add Customer Test
+01/27/2024 02:23:10 PM: INFO: ********** Launching chrome browser...
+01/27/2024 02:23:11 PM: INFO: ********** Test_003_AddCustomer **********
+01/27/2024 02:23:13 PM: INFO: *** Login Succesful
+01/27/2024 02:23:13 PM: INFO: ***** Starting Add Customer Test
+01/27/2024 02:24:35 PM: INFO: ********** Launching chrome browser...
+01/27/2024 02:24:37 PM: INFO: ********** Test_003_AddCustomer **********
+01/27/2024 02:24:39 PM: INFO: *** Login Succesful
+01/27/2024 02:24:39 PM: INFO: ***** Starting Add Customer Test
+01/27/2024 02:24:42 PM: INFO: ***** Providing Customer Info
+01/27/2024 02:26:33 PM: INFO: ********** Launching chrome browser...
+01/27/2024 02:26:35 PM: INFO: ********** Test_003_AddCustomer **********
+01/27/2024 02:26:38 PM: INFO: *** Login Succesful
+01/27/2024 02:26:38 PM: INFO: ***** Starting Add Customer Test
+01/27/2024 02:26:40 PM: INFO: ***** Providing Customer Info
+01/27/2024 02:26:52 PM: INFO: ***** Saving customer info
+01/27/2024 02:26:52 PM: INFO: ***** Add customer validation
+01/27/2024 02:26:52 PM: INFO: *** Add Customer Test Passed
+01/27/2024 02:26:52 PM: INFO: ********** Ending Add Customer Test 
+01/27/2024 02:34:48 PM: INFO: ********** Launching chrome browser...
+01/27/2024 02:34:49 PM: INFO: ********** Test_003_AddCustomer **********
+01/27/2024 02:34:52 PM: INFO: *** Login Succesful
+01/27/2024 02:34:52 PM: INFO: ***** Starting Add Customer Test
+01/27/2024 02:34:55 PM: INFO: ***** Providing Customer Info
+01/27/2024 02:35:59 PM: INFO: ********** Launching chrome browser...
+01/27/2024 02:36:00 PM: INFO: ********** Test_003_AddCustomer **********
+01/27/2024 02:36:03 PM: INFO: *** Login Succesful
+01/27/2024 02:36:03 PM: INFO: ***** Starting Add Customer Test
+01/27/2024 02:36:06 PM: INFO: ***** Providing Customer Info
+01/27/2024 02:37:12 PM: INFO: ********** Launching chrome browser...
+01/27/2024 02:37:14 PM: INFO: ********** Test_003_AddCustomer **********
+01/27/2024 02:37:16 PM: INFO: *** Login Succesful
+01/27/2024 02:37:16 PM: INFO: ***** Starting Add Customer Test
+01/27/2024 02:37:18 PM: INFO: ***** Providing Customer Info
+01/27/2024 02:38:09 PM: INFO: ********** Launching chrome browser...
+01/27/2024 02:38:11 PM: INFO: ********** Test_003_AddCustomer **********
+01/27/2024 02:38:13 PM: INFO: *** Login Succesful
+01/27/2024 02:38:13 PM: INFO: ***** Starting Add Customer Test
+01/27/2024 02:38:16 PM: INFO: ***** Providing Customer Info
+01/27/2024 02:38:49 PM: INFO: ********** Launching chrome browser...
+01/27/2024 02:38:50 PM: INFO: ********** Test_003_AddCustomer **********
+01/27/2024 02:38:53 PM: INFO: *** Login Succesful
+01/27/2024 02:38:53 PM: INFO: ***** Starting Add Customer Test
+01/27/2024 02:38:56 PM: INFO: ***** Providing Customer Info
+01/27/2024 02:41:59 PM: INFO: ********** Launching chrome browser...
+01/27/2024 02:42:01 PM: INFO: ********** Test_003_AddCustomer **********
+01/27/2024 02:42:04 PM: INFO: *** Login Succesful
+01/27/2024 02:42:04 PM: INFO: ***** Starting Add Customer Test
+01/27/2024 02:42:06 PM: INFO: ***** Providing Customer Info
+01/27/2024 02:44:03 PM: INFO: ********** Launching chrome browser...
+01/27/2024 02:44:05 PM: INFO: ********** Test_003_AddCustomer **********
+01/27/2024 02:44:07 PM: INFO: *** Login Succesful
+01/27/2024 02:44:07 PM: INFO: ***** Starting Add Customer Test
+01/27/2024 02:44:09 PM: INFO: ***** Providing Customer Info
+01/27/2024 02:45:56 PM: INFO: ********** Launching chrome browser...
+01/27/2024 02:45:57 PM: INFO: ********** Test_003_AddCustomer **********
+01/27/2024 02:46:00 PM: INFO: *** Login Succesful
+01/27/2024 02:46:00 PM: INFO: ***** Starting Add Customer Test
+01/27/2024 02:46:03 PM: INFO: ***** Providing Customer Info
+01/27/2024 02:46:35 PM: INFO: ********** Launching chrome browser...
+01/27/2024 02:46:37 PM: INFO: ********** Test_003_AddCustomer **********
+01/27/2024 02:46:40 PM: INFO: *** Login Succesful
+01/27/2024 02:46:40 PM: INFO: ***** Starting Add Customer Test
+01/27/2024 02:46:42 PM: INFO: ***** Providing Customer Info
+01/27/2024 02:47:24 PM: INFO: ********** Launching chrome browser...
+01/27/2024 02:47:25 PM: INFO: ********** Test_003_AddCustomer **********
+01/27/2024 02:47:27 PM: INFO: *** Login Succesful
+01/27/2024 02:47:27 PM: INFO: ***** Starting Add Customer Test
+01/27/2024 02:47:29 PM: INFO: ***** Providing Customer Info
+01/27/2024 02:48:06 PM: INFO: ********** Launching chrome browser...
+01/27/2024 02:48:08 PM: INFO: ********** Test_003_AddCustomer **********
+01/27/2024 02:48:10 PM: INFO: *** Login Succesful
+01/27/2024 02:48:10 PM: INFO: ***** Starting Add Customer Test
+01/27/2024 02:48:12 PM: INFO: ***** Providing Customer Info
+01/27/2024 02:49:12 PM: INFO: ********** Launching chrome browser...
+01/27/2024 02:49:14 PM: INFO: ********** Test_003_AddCustomer **********
+01/27/2024 02:49:16 PM: INFO: *** Login Succesful
+01/27/2024 02:49:16 PM: INFO: ***** Starting Add Customer Test
+01/27/2024 02:49:18 PM: INFO: ***** Providing Customer Info
+01/27/2024 02:51:09 PM: INFO: ********** Launching chrome browser...
+01/27/2024 02:51:11 PM: INFO: ********** Test_003_AddCustomer **********
+01/27/2024 02:51:14 PM: INFO: *** Login Succesful
+01/27/2024 02:51:14 PM: INFO: ***** Starting Add Customer Test
+01/27/2024 02:51:18 PM: INFO: ***** Providing Customer Info
+01/27/2024 02:52:19 PM: INFO: ********** Launching chrome browser...
+01/27/2024 02:52:21 PM: INFO: ********** Test_003_AddCustomer **********
+01/27/2024 02:52:23 PM: INFO: *** Login Succesful
+01/27/2024 02:52:23 PM: INFO: ***** Starting Add Customer Test
+01/27/2024 02:52:25 PM: INFO: ***** Providing Customer Info
+01/27/2024 02:55:07 PM: INFO: ********** Launching chrome browser...
+01/27/2024 02:55:08 PM: INFO: ********** Test_003_AddCustomer **********
+01/27/2024 02:55:11 PM: INFO: *** Login Succesful
+01/27/2024 02:55:11 PM: INFO: ***** Starting Add Customer Test
+01/27/2024 02:55:14 PM: INFO: ***** Providing Customer Info
+01/27/2024 02:56:08 PM: INFO: ********** Launching chrome browser...
+01/27/2024 02:56:10 PM: INFO: ********** Test_003_AddCustomer **********
+01/27/2024 02:56:12 PM: INFO: *** Login Succesful
+01/27/2024 02:56:12 PM: INFO: ***** Starting Add Customer Test
+01/27/2024 02:56:14 PM: INFO: ***** Providing Customer Info
+01/27/2024 02:56:58 PM: INFO: ********** Launching chrome browser...
+01/27/2024 02:57:00 PM: INFO: ********** Test_003_AddCustomer **********
+01/27/2024 02:57:03 PM: INFO: *** Login Succesful
+01/27/2024 02:57:03 PM: INFO: ***** Starting Add Customer Test
+01/27/2024 02:57:05 PM: INFO: ***** Providing Customer Info
+01/27/2024 02:58:52 PM: INFO: ********** Launching chrome browser...
+01/27/2024 02:58:54 PM: INFO: ********** Test_003_AddCustomer **********
+01/27/2024 02:58:56 PM: INFO: *** Login Succesful
+01/27/2024 02:58:56 PM: INFO: ***** Starting Add Customer Test
+01/27/2024 02:58:59 PM: INFO: ***** Providing Customer Info
+01/27/2024 02:59:39 PM: INFO: ********** Launching chrome browser...
+01/27/2024 02:59:41 PM: INFO: ********** Test_003_AddCustomer **********
+01/27/2024 02:59:44 PM: INFO: *** Login Succesful
+01/27/2024 02:59:44 PM: INFO: ***** Starting Add Customer Test
+01/27/2024 02:59:46 PM: INFO: ***** Providing Customer Info
+01/27/2024 03:01:18 PM: INFO: ********** Launching chrome browser...
+01/27/2024 03:01:20 PM: INFO: ********** Test_003_AddCustomer **********
+01/27/2024 03:01:23 PM: INFO: *** Login Succesful
+01/27/2024 03:01:23 PM: INFO: ***** Starting Add Customer Test
+01/27/2024 03:01:26 PM: INFO: ***** Providing Customer Info
+01/27/2024 03:01:27 PM: INFO: ***** Saving customer info
+01/27/2024 03:01:27 PM: INFO: ***** Add customer validation
+01/27/2024 03:01:28 PM: INFO: *** Add Customer Test Passed
+01/27/2024 03:01:28 PM: INFO: ********** Ending Add Customer Test 
+01/27/2024 03:03:01 PM: INFO: ********** Launching chrome browser...
+01/27/2024 03:03:02 PM: INFO: ********** Test_003_AddCustomer **********
+01/27/2024 03:03:05 PM: INFO: *** Login Succesful
+01/27/2024 03:03:05 PM: INFO: ***** Starting Add Customer Test
+01/27/2024 03:03:08 PM: INFO: ***** Providing Customer Info
+01/27/2024 03:03:09 PM: INFO: ***** Saving customer info
+01/27/2024 03:03:09 PM: INFO: ***** Add customer validation
+01/27/2024 03:03:10 PM: INFO: *** Add Customer Test Passed
+01/27/2024 03:03:10 PM: INFO: ********** Ending Add Customer Test 
+01/27/2024 03:03:32 PM: INFO: ********** Launching chrome browser...
+01/27/2024 03:03:34 PM: INFO: ********** Test_003_AddCustomer **********
+01/27/2024 03:03:36 PM: INFO: *** Login Succesful
+01/27/2024 03:03:36 PM: INFO: ***** Starting Add Customer Test
+01/27/2024 03:03:38 PM: INFO: ***** Providing Customer Info
+01/27/2024 03:03:40 PM: INFO: ***** Saving customer info
+01/27/2024 03:03:40 PM: INFO: ***** Add customer validation
+01/27/2024 03:03:41 PM: INFO: *** Add Customer Test Passed
+01/27/2024 03:03:41 PM: INFO: ********** Ending Add Customer Test 
+01/27/2024 03:05:08 PM: INFO: ********** Launching chrome browser...
+01/27/2024 03:05:09 PM: INFO: ********** Test_003_AddCustomer **********
+01/27/2024 03:05:11 PM: INFO: *** Login Succesful
+01/27/2024 03:05:11 PM: INFO: ***** Starting Add Customer Test
+01/27/2024 03:05:13 PM: INFO: ***** Providing Customer Info
+01/27/2024 03:07:52 PM: INFO: ********** Launching chrome browser...
+01/27/2024 03:07:54 PM: INFO: ********** Test_003_AddCustomer **********
+01/27/2024 03:07:56 PM: INFO: *** Login Succesful
+01/27/2024 03:07:56 PM: INFO: ***** Starting Add Customer Test
+01/27/2024 03:08:00 PM: INFO: ***** Providing Customer Info
+01/27/2024 03:08:41 PM: INFO: ********** Launching chrome browser...
+01/27/2024 03:08:43 PM: INFO: ********** Test_003_AddCustomer **********
+01/27/2024 03:08:45 PM: INFO: *** Login Succesful
+01/27/2024 03:08:45 PM: INFO: ***** Starting Add Customer Test
+01/27/2024 03:08:48 PM: INFO: ***** Providing Customer Info
+01/27/2024 03:12:57 PM: INFO: ********** Launching chrome browser...
+01/27/2024 03:12:59 PM: INFO: ********** Test_003_AddCustomer **********
+01/27/2024 03:13:01 PM: INFO: *** Login Succesful
+01/27/2024 03:13:01 PM: INFO: ***** Starting Add Customer Test
+01/27/2024 03:13:04 PM: INFO: ***** Providing Customer Info
+01/27/2024 03:13:15 PM: INFO: ***** Saving customer info
+01/27/2024 03:13:15 PM: INFO: ***** Add customer validation
+01/27/2024 03:13:16 PM: INFO: *** Add Customer Test Passed
+01/27/2024 03:13:16 PM: INFO: ********** Ending Add Customer Test 
+01/27/2024 03:13:59 PM: INFO: ********** Launching chrome browser...
+01/27/2024 03:14:01 PM: INFO: ********** Test_003_AddCustomer **********
+01/27/2024 03:14:03 PM: INFO: *** Login Succesful
+01/27/2024 03:14:03 PM: INFO: ***** Starting Add Customer Test
+01/27/2024 03:14:06 PM: INFO: ***** Providing Customer Info
+01/27/2024 03:14:17 PM: INFO: ***** Saving customer info
+01/27/2024 03:14:17 PM: INFO: ***** Add customer validation
+01/27/2024 03:14:17 PM: INFO: *** Add Customer Test Passed
+01/27/2024 03:14:17 PM: INFO: ********** Ending Add Customer Test 

@@ -33,3 +33,5 @@ as inspired by SDET-QA Youtube channel
 |```pytest -v -s testCases\test_login.py --browser firefox```| - in a selected browser (supported: Chrome, Firefox, Edge, Safari)|
 |```pytest -v -s -n=3 testCases\test_login.py```| - "-n=3" allows to launch tests in parallel (keep it under 3 for)|
 |```pytest -v -s --html=Reports\report.html testCases\test_login.py```| - generates the HTML report in "Reports\report.html"|
+### Automation Workflow
+* Create page object in pageObjects folder;
