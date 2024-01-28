@@ -34,7 +34,9 @@ def setup(browser):
 
     elif browser == 'safari':
         driver = webdriver.Safari()
-
+    
+    driver.implicitly_wait(10)
+    
     return driver
 
 
