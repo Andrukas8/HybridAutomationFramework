@@ -1,0 +1,20 @@
+
+Variant 1:
+1) Open browser (Chrome)
+2) Open url (https://admin-demo.nopcommerce.com/login)
+3) Provide Email (admin@yourstore.com)
+4) Provide password (admin)
+5) Click on Login
+6) Capture title of the Dashboard Page (Actual Title)
+7) Verify title of the page: "Dashboard / nopCommerce administration" (Expected)
+8) Close browser
+
+Variant 2:
+1) Open browser (Chrome/Firefox/Edge)
+2) Open url (https://opensource-demo.orangehrmlive.com/)
+3) Provide Username (Admin)
+4) Provide password (admin123)
+5) Click on Login
+6) Capture title of the Dashboard Page (Actual Title)
+7) Verify title of the page: "OrangeHRM" (Expected)
+8) Close browser
