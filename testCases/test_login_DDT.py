@@ -1,4 +1,5 @@
 import time
+import pytest
 from selenium import webdriver
 from pageObjects.LoginPage import LoginPage
 from utilities.readProperties import ReadConfig
@@ -11,7 +12,8 @@ class Test_002_DDT_Login:
     path = ".//TestData//LoginData.xlsx"
 
     logger = LogGen.loggen()
-
+    
+    @pytest.mark.regression
     def test_login_ddt(self, setup):
         self.logger.info("***** Test_002_DDT_Login *****")
         self.logger.info("***** Verifying Login test")

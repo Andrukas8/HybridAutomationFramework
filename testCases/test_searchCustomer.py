@@ -20,7 +20,8 @@ class Test_004_SearchCustomer:
     lName = "Gates"
     dobMonth = "11"
     dobDay = "5"
-
+        
+    @pytest.mark.regression
     def test_SearchCustomer(self, setup):
         self.logger.info("********** Test_004_SearchCustomer **********")
         self.driver = setup
@@ -144,5 +145,5 @@ class Test_004_SearchCustomer:
 
             self.logger.info("*** Finished Search Customer By DOB Day Test...")
 
-        #####
+
         self.driver.quit()
